@@ -7,7 +7,7 @@
 
 {
     'name': 'Aeroo Reports',
-    'version': '15.2.1',
+    'version': '16.0.2.1.0',
     'category': 'Generic Modules/Aeroo Reports',
     'summary': 'Enterprise grade reporting solution (odoo v15)',
     'author': 'Alistek',
