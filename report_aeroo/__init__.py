@@ -24,6 +24,6 @@ from . import report_parser
 from . import report
 
 from . import wizard
-from . import check_deps
+#from . import check_deps
 #from . import translate
 
