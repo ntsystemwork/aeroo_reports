@@ -23,7 +23,8 @@ from genshi.template.eval import StrictLookup
 from odoo import release as odoo_release
 from odoo import api, models, fields
 from odoo.tools import file_open, frozendict
-from odoo.tools.translate import _, translate
+from odoo.tools.translate import _
+from odoo.tools.misc import translate
 from odoo.tools.misc import formatLang as odoo_fl
 from odoo.tools.misc import format_date as odoo_fd
 from odoo.tools.safe_eval import safe_eval
