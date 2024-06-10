@@ -11,6 +11,7 @@ check_list = [
     'from genshi.template import NewTextTemplate',
     'from xml.dom import minidom',
     'from pyPdf import PdfFileWriter, PdfFileReader',
+
 ]
 
 #from . import check_deps
@@ -23,5 +24,6 @@ from . import report_parser
 from . import report
 
 from . import wizard
+from . import check_deps
 #from . import translate
 
